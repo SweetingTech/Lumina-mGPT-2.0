@@ -33,7 +33,7 @@ We introduce a stand-alone, decoder-only autoregressive model, **trained from sc
 
 
 ## 🔥 News
-**[2025-08-15]** 🎉🎉🎉 MindSpeed ​​MM (supported by Huawei) natively supports the Lumina-mGPT 2.0 [MindSpeed ​​MM](https://gitee.com/ascend/MindSpeed-MM).
+**[2025-08-15]** 🎉🎉🎉 MindSpeed ​​MM (supported by Huawei) natively supports the Lumina-mGPT 2.0 on [MindSpeed ​​MM](https://gitee.com/ascend/MindSpeed-MM).
 
 **[2025-08-02]** 🎉🎉🎉 We released the inference code for image-to-image tasks and the all-in-one model checkpoints on [HuggingFace](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-2.0-Omni).
 
